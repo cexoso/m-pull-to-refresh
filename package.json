@@ -1,6 +1,6 @@
 {
   "name": "rmc-pull-to-refresh",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "React Mobile Pull To Refresh Component",
   "keywords": [
     "react",
@@ -11,10 +11,10 @@
   "homepage": "https://github.com/react-component/m-pull-to-refresh",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-component/m-tabs.git"
+    "url": "https://github.com/react-component/m-pull-to-refresh.git"
   },
   "bugs": {
-    "url": "https://github.com/react-component/m-tabs/issues"
+    "url": "https://github.com/react-component/m-pull-to-refresh/issues"
   },
   "files": [
     "lib",
